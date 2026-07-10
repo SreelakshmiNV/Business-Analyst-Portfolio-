@@ -55,7 +55,7 @@ Experienced in developing interactive dashboards, writing SQL queries, analyzing
 
 ### Business Case
 - Landscape Development Business Case
--Smart-Flame Intelligent Gas Cooking System
+- Smart-Flame Intelligent Gas Cooking System
 ---
 
 ## 📫 Connect With Me
