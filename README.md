@@ -1,4 +1,4 @@
-# Business-Analyst-Portfolio-
+# Business-Analyst-Portfolio
 # Hi, I'm Sreelakshmi N V 👋
 
 ## 👩‍💼 About Me
