@@ -12,6 +12,10 @@ Experienced in developing interactive dashboards, writing SQL queries, analyzing
 ## 🛠️ Technical Skills
 
 - SQL
+- Python
+- Numpy
+- Pandas
+- Seaborn
 - Microsoft Power BI
 - Tableau
 - Microsoft Excel
@@ -29,6 +33,7 @@ Experienced in developing interactive dashboards, writing SQL queries, analyzing
 - KPI Reporting
 - Microsoft PowerPoint
 - Jira
+- Agile&Scrum
 
 ---
 
@@ -43,6 +48,9 @@ Experienced in developing interactive dashboards, writing SQL queries, analyzing
 - HR Analytics Dashboard
 - Sales Performance Dashboard
 - Customer Analysis Dashboard
+
+### Python
+-911 call analysis
 
 ### Tableau
 - HR Analytics Dashboard
