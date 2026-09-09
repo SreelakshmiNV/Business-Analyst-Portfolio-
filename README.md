@@ -50,7 +50,7 @@ Experienced in developing interactive dashboards, writing SQL queries, analyzing
 - Customer Analysis Dashboard
 
 ### Python
--911 call analysis
+- 911 call analysis
 
 ### Tableau
 - HR Analytics Dashboard
